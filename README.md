@@ -5,6 +5,6 @@ Full description on: https://www.instructables.com/id/Wemos-Heat-Pump-Failure-Al
 
 Note (2019-04-10):
 
-ArduinoJson.h (https://github.com/bblanchon/ArduinoJson) max version 5.13.5 (6.x not working! due to DynamicJsonBuffer is removed in version 6.) 
+ArduinoJson.h (https://github.com/bblanchon/ArduinoJson) max version 5.13.5 (6.x not working! due to DynamicJsonBuffer is removed in version 6.). See issue #654 in WiFiManager.h (https://github.com/tzapu/WiFiManager/issues/654)
 
 Core for Esp8266 max version 2.4.0 otherwise gets "failed to mount FS". See issue #863 in WiFiManager.h (https://github.com/tzapu/WiFiManager/issues/863)
